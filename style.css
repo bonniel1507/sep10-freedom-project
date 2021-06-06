@@ -1,6 +1,6 @@
 #div1 {
     background-color: #f2f2f2;
-    padding: 25px;
+    padding: 20px;
 }
 
 h1 {
@@ -8,12 +8,17 @@ h1 {
     margin: 20px;
     padding: 15px;
     font-family: 'Aclonica', sans-serif;
-    font-size: 75px;
+    font-size: 4vw;
 }
 
 h3 {
     text-align: center;
     font-family: 'Comfortaa', cursive;
+}
+
+h4 {
+    font-family: 'Comfortaa', cursive;
+    font-size: 3vw;
 }
 
 h6 {
@@ -23,4 +28,26 @@ h6 {
 img {
     width: 300px;
     height: 300px
+}
+
+ul {
+    text-align: left;
+    padding: 0px 10px;
+}
+
+li {
+    font-family: 'Dosis', sans-serif;
+}
+
+.div2 {
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+}
+
+.col {
+    border: 1px solid;
+    padding: 10px;
 }
