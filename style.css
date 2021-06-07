@@ -11,6 +11,10 @@ h1 {
     font-size: 4vw;
 }
 
+h2 {
+    font-family: 'Comfortaa', cursive;
+}
+
 h3 {
     text-align: center;
     font-family: 'Comfortaa', cursive;
@@ -32,7 +36,7 @@ img {
 
 ul {
     text-align: left;
-    padding: 0px 10px;
+    padding: 0px 70px;
 }
 
 li {
@@ -41,6 +45,11 @@ li {
 
 .div2 {
     text-align: center;
+}
+
+.text {
+    margin: 40px;
+    padding: 0px 20px;
 }
 
 .container {
